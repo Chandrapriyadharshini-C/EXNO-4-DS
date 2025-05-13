@@ -1,4 +1,5 @@
 # EXNO:4-DS
+# Date: 12/04/2025
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +25,23 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![1](https://github.com/user-attachments/assets/07c73a74-77f1-43e7-b13c-831e239d10e5)
+![2](https://github.com/user-attachments/assets/6f941a27-9296-48b5-ba2b-7a01f4e5ab98)
+![3](https://github.com/user-attachments/assets/9facd0fc-4d34-4f7f-ba46-399d8d91ab6b)
+![4](https://github.com/user-attachments/assets/6ea04f13-ec85-4580-b1a6-e43421cd6817)
+![5](https://github.com/user-attachments/assets/75e3afb9-dabd-486b-bd65-0b27c05fda95)
+![6](https://github.com/user-attachments/assets/63f23059-f1dd-408f-8797-0ef52f352d91)
+![7](https://github.com/user-attachments/assets/2a390191-335e-4c53-8296-3516dc84b335)
+![8](https://github.com/user-attachments/assets/6a89995d-61ad-4807-81f2-82ee7ea78ee6)
+![9](https://github.com/user-attachments/assets/5ee33501-1edd-4e40-b46a-81c04b1d5716)
+![10](https://github.com/user-attachments/assets/45d0f65e-31d0-4f56-80e0-e259b5ecd485)
+![11](https://github.com/user-attachments/assets/62ba5db6-6a72-449b-90ab-cffb9dbf01c4)
+![12](https://github.com/user-attachments/assets/5df2b8b8-5927-46e6-b26d-9cad62cb7561)
+![13](https://github.com/user-attachments/assets/9a44ce50-b60f-44e5-bf2a-fe700dbbc9cd)
+![14](https://github.com/user-attachments/assets/213abe64-0f92-42c0-803b-e7cc04dcd1ab)
+![15](https://github.com/user-attachments/assets/bd500a55-d42f-47c7-80c8-0e608f7a1ea0)
+![16](https://github.com/user-attachments/assets/d8164cb3-a080-4a29-9fd0-f0f4438fa56b)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
